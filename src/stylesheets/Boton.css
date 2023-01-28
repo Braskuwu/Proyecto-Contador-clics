@@ -1,0 +1,38 @@
+button {
+  width: 250px;
+  height:  80px;
+  font-size: 35px;
+  font-family: Roboto, sans-serif;
+  font-weight: bold;
+  color: black;
+  border: 2px solid white;
+  border-radius: 15px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.boton-clic:hover{
+  background-color: greenyellow;
+}
+
+.boton-reiniciar:hover{
+  background-color: red;
+}
+
+.boton-clic{
+  background-color: antiquewhite;
+}
+
+.boton-reiniciar{
+  width: 250px;
+  height:  80px;
+  background-color: black;
+  font-size: 35px;
+  font-family: Roboto, sans-serif;
+  font-weight: bold;
+  color: white;
+  border: 2px solid black;
+  border-radius: 15px;
+  margin: 5px;
+  cursor: pointer;
+}
